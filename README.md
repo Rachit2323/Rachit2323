@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **atreyrachit23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14h9Ckf4pmiKDLFg3eUqh-WD1FTnqkhBI/view?usp=sharing](https://drive.google.com/file/d/14h9Ckf4pmiKDLFg3eUqh-WD1FTnqkhBI/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BKBCVIHhjddisXSd_XoKNyNxZQ7gfBlc/view?usp=sharing)
 
 - ⚡ Fun fact **Unstable electron**
 
