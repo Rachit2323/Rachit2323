@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3.0 , Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://rachit23-portfolio.netlify.app/](https://rachit23-portfolio.netlify.app/)
+
 
 - 💬 Ask me about **React, Nodejs, Solidity**
 
